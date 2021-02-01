@@ -1,0 +1,110 @@
+.white-box {
+    border: solid 1px;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    padding: 50px;
+}
+
+.red-box {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: black 3px dashed;
+}
+
+.table {
+    width: 300px;
+    height: 150px;
+}
+
+.table td {
+    border: solid 1px;
+}
+
+.td-background {
+    background-color:lightblue;
+}
+
+.iteration3 {
+    border: solid 1px;
+    width: 300px;
+
+}
+
+p{
+    padding: 2px;
+    margin: 2px;
+}
+
+.div-a {
+    text-align: left;
+    background-color: indigo;
+    width: 75px;
+    color:white;
+    margin-left: 2px;
+}
+
+.div-b {
+    text-align: left;
+    background-color: indigo;
+    width: 200px;
+    color:white;
+    margin-left: 2px;
+}
+
+.div-c {
+    text-align: right;
+    background-color: indigo;
+    width: 223px;
+    color:white;
+    margin-left: 75px;
+}
+
+.div-d {
+    text-align: right;
+    background-color: indigo;
+    width: 75px;
+    color:white;
+}
+
+.span1 {
+    color:peru;
+}
+
+.span2 {
+    color:red;
+    font-style: italic ;
+}
+
+.span3 {
+    color:green;
+    font-style: italic ;
+}
+
+.span4 {
+    color:peru;
+    font-style: italic;
+}
+
+.span5 {
+    color:red;
+}
+
+.span6 {
+    color:green;
+}
+
+.simple-table{
+    border: solid 1px;
+}
+
+.simple-table td {
+    border: solid 1px;
+    text-align: center;
+    width: 75px;
+}
+
+.td-red {
+    color:red;
+}
